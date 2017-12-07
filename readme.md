@@ -176,6 +176,17 @@ the anecdote, you can throw away the data."
 
 [R: verywell.com](https://www.verywell.com/what-is-the-hawthorne-effect-2795234)
 
+#### [Multiple Personality Disorder](wikipedia.org/Dissociative_identity_disorder)
+
+>A severe condition in which two or more distinct identities, or personality states, are present in—and alternately take control of—an individual.
+
+In 1791, the first detailed account of "exchanged personality" was written about a 20-year-old German woman. DID was focused on for study between 1880 and 1920 and in 1944. According to Mosby's Medical Dictionaryit is defined  as, "an unconscious defence mechanism by which an idea, thought, emotion, or other mental process is separated from the consciousness and thereby loses emotional significance."
+
+[R: healthyplace.com](https://www.healthyplace.com/abuse/dissociative-identity-disorder/the-amazing-history-of-dissociative-identity-disorder-did/)
+
+[R: psychologytoday.com](https://www.psychologytoday.com/conditions/dissociative-identity-disorder-multiple-personality-disorder)
+
+
 
 ***
 
