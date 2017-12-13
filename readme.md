@@ -178,13 +178,13 @@ the anecdote, you can throw away the data."
 
 #### [Schizophrenia](https://en.wikipedia.org/wiki/Schizophrenia)
 
->A mental disorder characterized by delusions, hallucinations, or other symptoms of lack of contact with reality.
+> Disorder characterized by symptoms of lack of contact with reality
 
-The term ‘schizophrenia’ was coined in 1910 by the Swiss psychiatrist Paul Eugen Bleuler, and is derived from the Greek words ‘schizo’ (split) and ‘phren’ (mind). The oldest available description of an illness closely resembling schizophrenia can be found in the Ebers papyrus, which dates back to the Egypt of 1550 BC. It is a serious disorder which causes a disconnect between what a person perceives as reality and what truly is reality. This mental gap can be extremely confusing and upsetting, causing intense psychological distress.
+It was coined in 1910 by the Swiss psychiatrist Paul Eugen Bleuler derived from the Greek words schizo (split) and phren (mind). An illness closely resembling schizophrenia can be found in the Ebers papyrus, dating back to the Egypt of 1550 BC. It causes a disconnection between what a person perceives as reality and what truly is reality. This mental gap can be extremely confusing and upsetting, causing intense psychological distress.
 
 [R: nihm.gov](https://www.nimh.nih.gov/health/topics/schizophrenia/index.shtml)
 
-[R: webmd.com](https://www.webmd.com/schizophrenia/mental-health-schizophrenia#1)
+[R: rethink.org](https://www.rethink.org/diagnosis-treatment/conditions/schizophrenia)
 
 [R: mentalhealthamerica.net](http://www.mentalhealthamerica.net/conditions/schizophrenia)
 
